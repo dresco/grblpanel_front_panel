@@ -5,6 +5,13 @@
   )
 
   (paper "A3")
+  (title_block
+    (title "grblPANEL - Front Panel")
+    (date "2023-04-28")
+    (rev "A")
+    (company "dresco")
+  )
+
   (layers
     (0 "F.Cu" signal)
     (31 "B.Cu" signal)
@@ -7714,7 +7721,7 @@
   (gr_text "CC-BY-SA" (at 169 54.5 90) (layer "B.SilkS") (tstamp 17f8bc69-5e0b-4541-be68-54b9dffd3d74)
     (effects (font (size 3 2.5) (thickness 0.5) bold) (justify mirror))
   )
-  (gr_text "grblPANEL\nRev B - 04/23\ngithub.com/dresco/grblPANEL" (at 244 84 90) (layer "B.SilkS") (tstamp 377104ec-2d77-457a-8913-48fda50c2a6f)
+  (gr_text "grblPANEL\nRev A - 04/23\ngithub.com/dresco/grblPANEL" (at 244 84 90) (layer "B.SilkS") (tstamp 377104ec-2d77-457a-8913-48fda50c2a6f)
     (effects (font (size 3 2.5) (thickness 0.5) bold) (justify mirror))
   )
   (gr_text "G55" (at 148 208) (layer "F.SilkS") (tstamp 00605c60-5020-4fb5-84a8-436557e373ba)
